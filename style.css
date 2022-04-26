@@ -145,6 +145,14 @@ footer {
 
     html {
         background: rgb(19, 119, 191);
+        
+    }
+    
+    body {
+        background-image: url(https://github.com/braianeestrada/encriptador/blob/master/Imagenes/aurora.jpg);
+        background-position: center;
+        background-size:cover;
+        background-attachment:fixed;
     }
 
     .contenedor_cajas {
