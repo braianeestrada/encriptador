@@ -147,6 +147,17 @@ footer {
         background: rgb(19, 119, 191);
         
     }
+
+    header {
+     display: flex;
+     padding: 4px;
+     background-color: rgba(0, 0, 0, 0.7);
+     border-top: 1px solid rgba(15, 15, 15);
+     border-bottom: 1px solid rgb(15, 15, 15);
+     color: rgb(255, 255, 255);
+     font-style: italic;
+     background-image: none;
+}
     
     .caja1 {
         background-image: url("./Imagenes/aurora.jpg");
