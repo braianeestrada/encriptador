@@ -179,6 +179,7 @@ footer {
     #caja1,
     #caja2 {
         width: 100%;
+        padding: 0px;
     }
 
     .botones {
