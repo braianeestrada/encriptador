@@ -2,7 +2,7 @@
     cursor: default;
 }
 
-html {
+body {
     background-image: url(imagenes/aurora.jpg);
     background-position: center;
     background-size:cover;
