@@ -145,7 +145,9 @@ footer {
 
     html {
         background: rgb(19, 119, 191);
-        
+        background-image: url(./Imagenes/cielo-nocturno.png);
+        background-position: center;
+        background-size: contain;
     }
 
     header {
@@ -159,19 +161,16 @@ footer {
      background-image: none;
 }
     
+    body {
+        background-image: none;
+    }
+
     .caja1 {
-        background-image: url("./Imagenes/aurora.jpg");
-        background-position: center;
-        background-size:contain;
-        background-attachment:fixed;
-        
+        background-image: none;
     }
 
     .caja2 {
-        background-image: url("./Imagenes/nieve.jpg");
-        background-size:contain;
-        background-attachment:fixed;
-        background-position: center;
+        background-image: none;
     }
 
     .contenedor_cajas {
@@ -197,7 +196,7 @@ footer {
 
     #caja1,
     #caja2 {
-        width: 100%;
+        width: 90%;
         padding: 0px;
     }
 
